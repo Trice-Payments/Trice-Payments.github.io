@@ -1,0 +1,1 @@
+User-agent: * Disallow: /iso20022pojos/
