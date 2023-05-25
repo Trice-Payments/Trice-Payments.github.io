@@ -1,0 +1,13 @@
+body {
+    background-color: #041729;
+    background-image: url("../images/tricebg.png");
+}
+h1 {
+    color: #68a2b9;
+    margin-left: 20px;
+    font-family: Arial, sans-serif;
+}
+p {
+    color: whitesmoke;
+    font-family: Arial, sans-serif;
+}
